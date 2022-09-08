@@ -1,0 +1,10 @@
+{
+  "name": "unwordle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "OSL-3.0",
+  "dependencies": {
+    "puppeteer": "^17.1.0",
+    "puppeteer-screen-recorder": "^2.1.0"
+  }
+}
